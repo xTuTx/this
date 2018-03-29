@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522330233 source:c:\users\leader\desktop\this\main.cpp
+	<iostream>
+	"omen.h"
+
+1522330233 c:\users\leader\desktop\this\include\omen.h
+
+1522330233 source:c:\users\leader\desktop\this\src\omen.cpp
+	<iostream>
+	"omen.h"
+
